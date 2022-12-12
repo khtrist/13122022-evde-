@@ -1,0 +1,14 @@
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.csproj.AssemblyReference.cache
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.AssemblyInfoInputs.cache
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.AssemblyInfo.cs
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.csproj.CoreCompileInputs.cache
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.exe
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.deps.json
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.runtimeconfig.json
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.runtimeconfig.dev.json
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.dll
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\bin\Debug\netcoreapp3.1\13122022 ev tapsirig 4.pdb
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.dll
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.pdb
+D:\Visual Studi Code Academy Lessons or\13122022 ev tapsirig 4\obj\Debug\netcoreapp3.1\13122022 ev tapsirig 4.genruntimeconfig.cache
